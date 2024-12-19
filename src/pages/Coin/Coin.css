@@ -1,0 +1,58 @@
+.spinner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Full viewport height */
+    width: 100vw; /* Full viewport width */
+    position: fixed; /* To cover the entire screen */
+    top: 0;
+    left: 0;
+    background-color: rgba(255, 255, 255, 0.8); /* Optional: Background overlay */
+    z-index: 1000; /* Ensure it stays above other elements */
+  }
+  .coin{
+    padding:0 24px;
+
+  }
+  .coin-name{
+display:flex;
+flex-direction:column;
+align-Items:center;
+margin:100px auto;
+margin-bottom:50px;
+  }
+.coin-name img{
+  
+  max-width:100px;
+  
+}
+.coin-name p b{
+  font-size: 44px;
+font-weight: 500;
+}
+
+.coin-charts{
+  max-width:700px;
+  
+  margin:auto
+}
+.coin-info{
+  max-width:700px;
+  
+  margin:50px auto;
+  display: flex;
+  flex-direction: column;
+
+}
+.coin-info ul {
+  display:flex;
+   justify-content: space-between;;
+   padding:10px 0px;
+   border-bottom: 1px solid #5f5d5f;
+   list-style: none;;
+}
+
+.coin-info ul li:last-child {
+ font-weight: 300;
+}
+  

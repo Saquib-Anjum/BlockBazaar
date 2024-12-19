@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Nanum+Gothic+Coding&family=Outfit:wght@100..900&family=Pacifico&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Outfit" ,sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.app {
+  min-height: 100vh;
+  color: white;
+  /* background: linear-gradient(#0b004e, #1d152f, #002834); */
+  background: linear-gradient( #15043a, #002c39,#1a4234);
+  
+}
+
