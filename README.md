@@ -28,7 +28,7 @@ Block Bazaar is a cryptocurrency price tracking app built with React and Vite. I
 
 ## Screenshots 📸
 
-![Block Bazaar](path_to_image_or_gif.png)
+![Block Bazaar](https://github.com/Saquib-Anjum/BlockBazaar/blob/main/public/Green%20Watercolour%20Opening%20Soon%20Banner%20(1).png)
 
 ## Getting Started 🛠️
 
