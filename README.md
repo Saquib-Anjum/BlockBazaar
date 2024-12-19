@@ -1,6 +1,6 @@
 # Block Bazaar 🚀
 
-![Block Bazaar Icon](https://github.com/Saquib-Anjum/block-bazaar/raw/main/path_to_icon.png)
+
 
 Block Bazaar is a cryptocurrency price tracking app built with React and Vite. It fetches real-time data from the CoinGecko API and displays essential cryptocurrency data such as:
 
