@@ -76,6 +76,7 @@ font-size:14px;
 display :none;
 }
 .Navbar button img{
+  margin-left:3px;
  width:12px;
 }
 }
