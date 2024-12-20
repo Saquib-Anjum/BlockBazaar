@@ -62,9 +62,10 @@ color:white
     padding:20px 8%;
   }
 .Navbar button{
-gap:8px;
+gap:5px;
 padding:8px 18px;
 font-size:14px;
+overflow: hidden;
 }
 }
 
@@ -79,4 +80,17 @@ display :none;
   margin-left:3px;
  width:12px;
 }
+
+.Navbar .logo{
+  width:max(20vw , 120px)
+}
+.Navbar button{
+  gap:4px;
+  padding:6px 15px;
+  font-size:14px;
+  overflow: hidden;
+  }
+  .Navbar{
+    padding:10px 2.5%;
+  }
 }
