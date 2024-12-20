@@ -55,7 +55,7 @@ setDisplayCoin(allCoin)
             <p className="market-cap">Market Cap</p>
     
         </div>
-        {dispalyCoin.slice(0,10).map((item,idx)=>(
+        {dispalyCoin.slice(0,20).map((item,idx)=>(
             <Link to={`/coin/${item.id}`}>
             <div className="table-layout" key={idx}>
                 <p>{item.market_cap_rank}</p>
