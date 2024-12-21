@@ -41,7 +41,7 @@ setDisplayCoin(allCoin)
 
 
 
-          <button type="submit">Srearch</button>
+          <button type="submit">Search</button>
         </form>
       </div>
 
@@ -71,6 +71,7 @@ setDisplayCoin(allCoin)
                 <p className="market-cap">{currency.symbol} {(item.market_cap).toLocaleString()}</p>
             </div>
             </Link>
+            
         ))}
       </div>
     </div>
